@@ -1,6 +1,8 @@
 # RueMoicroswitch
 Because I needed a custom lever
 
+![robot](https://raw.githubusercontent.com/ruenahcmohr/RueMoicroswitch/main/p1370411.jpg)
+
 This didn't work out for me, maybe you can find a use for it.
 
 This is not as sensitive as a real microswitch, but it does offer a design thats quite easy to make custom levers for. 
@@ -19,4 +21,4 @@ printed in PLA, no supports needed.
 Have fun!
 
 ![robot](main.png)
-![robot](p1370411.jpg)
+
