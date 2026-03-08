@@ -1,7 +1,7 @@
-# RueMoicroswitch
+# RueMicroswitch
 Because I needed a custom lever
 
-![robot](https://raw.githubusercontent.com/ruenahcmohr/RueMoicroswitch/main/p1370411.jpg)
+![p1370411.jpg](https://raw.githubusercontent.com/ruenahcmohr/RueMoicroswitch/main/p1370411.jpg)
 
 This didn't work out for me, maybe you can find a use for it.
 
@@ -21,4 +21,6 @@ printed in PLA, no supports needed.
 Have fun!
 
 ![robot](main.png)
+
+Rue - you made a typo....
 
